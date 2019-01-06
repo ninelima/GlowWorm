@@ -75,7 +75,9 @@ End
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 2cm
 \topmargin 10pheight%
+\rightmargin 1cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation skip
@@ -1278,27 +1280,17 @@ General
 \end_layout
 
 \begin_layout Standard
-HiMAX is a conventional configuration, strut braced, high wing strut braced
- aircraft.
- Landing gear is the conventional type, with two main wheels located ahead
- of the center of gravity and a steerable tailwheel.
+The RV-8A is a conventional configuration, cantilever, low wing aircraft.
+ Landing gear is the tricycle type, with two main wheels located behind
+ of the center of gravity and a free castoring tailwheel.
  The landing gear is flexible, with low pressure tires absorbing the landing
  loads.
- The wing struts attach at the outboard end of the landing gear axle, and
- all landing and flight loads pass through the landing gear structure.
  
 \end_layout
 
 \begin_layout Standard
-HiMAX has an enclosed cockpit to provide protection from the elements and
- has good downward visibility, at the expense of visibility into the direction
- of turn.
- 
-\end_layout
-
-\begin_layout Standard
-An aluminum member within the fuselage connects the lower strut fittings.
- 
+The fully enclosed cockpit is fitted with a bubble to provide protection
+ from the elements and has excellent visibility.
 \end_layout
 
 \begin_layout Subsection*
@@ -2382,6 +2374,8 @@ Main gear brakes are actuated by toe brake pedals on the front rudder pedals.
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename anti-splat.png
 
@@ -2476,13 +2470,8 @@ All control surfaces on the RV-8A are either pushrod or cable controlled
 \end_layout
 
 \begin_layout Standard
-The ailerons and elevator are connected by push rods with the joysticks.
- The rudder is connected by cables to the rudder pedals.
- The aileron is provided with a trim system which is actuated by a lever
- located on the left console.
-\end_layout
-
-\begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename flap-actuator.png
 
@@ -2492,6 +2481,15 @@ The ailerons and elevator are connected by push rods with the joysticks.
 \end_layout
 
 \begin_layout Standard
+The ailerons and elevator are connected by push rods with the joysticks.
+ The rudder is connected by cables to the rudder pedals.
+ The aileron is provided with a trim system which is actuated by a lever
+ located on the left console.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename checked-rudder.png
 
@@ -2530,6 +2528,8 @@ Two eighty liter fuel tanks located inboard in the wings provide fuel storage
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename fuel-filter.png
 
@@ -2557,7 +2557,41 @@ An electric auxiliary fuel pump, located on the left side of the fuselage
 \end_layout
 
 \begin_layout Standard
-Fuel selector and boost pump arrangement 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename fuel-selector-boost-pump.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fuel selector and boost pump arrangement
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2572,6 +2606,8 @@ Fuel can thus be used from one tank or the other, by switching the main
 \end_layout
 
 \begin_layout Quote
+
+\emph on
 CAUTION - The electric fuel gauges indicate the last remaining 15 USG (57
  lit) fuel quantity in each tank by means of individual float type resistive
  fuel sender units in the wing fuel tanks.
@@ -2582,6 +2618,17 @@ CAUTION - The electric fuel gauges indicate the last remaining 15 USG (57
 The electric fuel pump switch is located on the left instrument console
  in front of the throttle.
  
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename gascolator.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2609,32 +2656,51 @@ The master switch for the electrical system is located on the lower right
  side of the control panel, along with the magneto and starting switch.
  Other electrical switches and circuit breakers are grouped on the lower
  right side console below of the instrument panel.
- The starter switch is incorporated into the ACS switch located immediately
+ 
+\end_layout
+
+\begin_layout Standard
+The starter switch is incorporated into the ACS switch located immediately
  above the master switch on the extreme right side of the instrument panel.
  This switch is spring loaded and is used to select the magneto OFF, LEFT,
  RIGHT, BOTH and also engage the starter motor in the START position.
  To operate, turn the ignition key to the right (START).
  After starting, release the key and it will return to the BOTH position.
- Automatic circuit breakers are provided for all electrical circuits.
+\end_layout
+
+\begin_layout Standard
+Automatic circuit breakers are provided for all electrical circuits.
  These units automatically break the electrical circuit if an overload is
  applied to the system, preventing damage to the wires.
  To reset the circuit breakers, simply push in the buttons.
  Continual popping out of a circuit button indicates trouble in the electrical
  system and should be investigated.
- An Odyssey PC625 12V, 18 AH primary battery, is mounted in the tail section
+ 
+\end_layout
+
+\begin_layout Standard
+An Odyssey PC625 12V, 18 AH primary battery, is mounted in the tail section
  behind the baggage compartment.
  An Odyssey PC310 12V, 8 AH auxiliary battery, enclosed in battery box,
  is mounted in the nose section on the right side.
  (See Section IV, Sub Section III for maintenance.) A 12 Volt 50 Ampere alternato
 r is installed as standard equipment.
- The EFIS backlight and panel lights are operated by a rheostat switch located
+ 
+\end_layout
+
+\begin_layout Standard
+The EFIS backlight and panel lights are operated by a rheostat switch located
  on the left side of the instrument panel.
  The position lights are turned on with the first movement of the knob;
  panel light intensity is increased by further rotation of the control.
  Also, as optional equipment, individual instrument lights mounted on the
  instrument cover panel are turned on by the same rheostat, but panel light
  intensity is controlled by a separate rheostat.
- The Alternator switch is mechanically linked with the split master switch
+ 
+\end_layout
+
+\begin_layout Standard
+The Alternator switch is mechanically linked with the split master switch
  located on the lower right side of the instrument panel.
  A voltage regulator is included into the alternator itself.
  The alternator provides charging current for both batteries.
@@ -2642,10 +2708,23 @@ r is installed as standard equipment.
  left tail section.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
+
+\emph on
 CAUTION - When connecting to an external power source, airplane master switch
  must be in the OFF position.
  
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename alternator.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -2653,10 +2732,8 @@ ELECTRICAL DIAGRAM
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
 \begin_inset Graphics
-	filename Rotax_503_electrical.png
+	filename wiring-schematic.svg
 	width 100col%
 
 \end_inset
@@ -2896,7 +2973,25 @@ Strobe (Whelen)
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
 
+
+\end_layout
+
+\begin_layout Plain Layout
+4.6
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+5.0
 \end_layout
 
 \end_inset
@@ -2905,7 +3000,25 @@ Strobe (Whelen)
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
 
+
+\end_layout
+
+\begin_layout Plain Layout
+5.5
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+5.9
 \end_layout
 
 \end_inset
@@ -2923,34 +3036,66 @@ B.
  INTERMITTENT LOADS
 \end_layout
 
-\begin_layout Standard
-- Landing Lights 
+\begin_layout Itemize
+Landing Lights 
 \end_layout
 
-\begin_layout Standard
-- Fuel Pump 
+\begin_layout Itemize
+Fuel Pump 
 \end_layout
 
-\begin_layout Standard
-- Starter Solenoids 
+\begin_layout Itemize
+Starter Solenoids 
 \end_layout
 
-\begin_layout Standard
-- Cigar Lighters
+\begin_layout Itemize
+Cigar Lighters
+\end_layout
+
+\begin_layout Subsection*
+PRIMARY EFIS FLIGHT INSTRUMENTS
 \end_layout
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename wiring-schematic.png
+	filename efis.png
 	width 100col%
+	height 100theight%
+	keepAspectRatio
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Subsection*
-PRIMARY EFIS FLIGHT INSTRUMENTS
+\begin_layout Standard
+\begin_inset Graphics
+	filename efis2.png
+	width 100col%
+	height 100theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename efis3.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename efis4.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -2973,15 +3118,20 @@ Instrument Panel
 
 \begin_layout Standard
 \noindent
-The instrument panel of the RV-8A has been designed to accom¬modate all
- of the customary conventional flight instruments in front of the pilot.
+The instrument panel of the RV-8A has been designed to accommodate all of
+ the customary conventional flight instruments in front of the pilot.
  All required engine instruments are available on the EFIS and an additional
  tachometer is provided as part of the analog cluster.
  The flight instrument group is in an easily visible sub-panel.
  All instruments are accessible for maintenance by removing the instrument
  panel.
- The Electronic Flight Information System (EFIS) in the flight group is
- provided with a fully redundant power system via the auxiliary battery.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+The Electronic Flight Information System (EFIS) in the flight group is provided
+ with a fully redundant power system via the auxiliary battery.
  This will allow the EFIS system to remain operational in the event of a
  main battery failure.
  A switch for EFIS backup power from the auxiliary battery is included in
@@ -3005,6 +3155,17 @@ A Hobbs meter is provided to eliminate the need for constant reference to
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename cockpit-layout.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Radio units are installed in the center of the main panel.
  Radio circuit breakers are mounted in the circuit breaker panel on the
  right side of the fuselage.
@@ -3025,6 +3186,17 @@ The RV-8A has two fixed seats provided with impact absorbing high density
  Both front and rear seats are fitted with full five point harness restraints
  suitable for acrobatic flight.
  
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename cockpit-dimensions.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3057,6 +3229,24 @@ Ventilation
 The flow of air for cooling the RV-8A cabin may be controlled by the ball
  valve on instrument panel.
  Air is exhausted through an outlet on the rear of the cabin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename logo-sm.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3228,19 +3418,6 @@ Starter manufacturers recommend that cranking periods be limited to ten
  Longer cranking periods will shorten the life of the starter.
 \end_layout
 
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename srarter.png
-	lyxscale 25
-	width 50col%
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Warm-Up and Ground Check
 \end_layout
@@ -3269,6 +3446,17 @@ Warm-up the engines at 1000 to 1400 RPM for not more than two minutes in
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename circuit-breakers.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 The electric fuel pumps should be turned off after starting or during warm-up
  to make sure that the engine driven pumps are operating.
  Prior to take-off the electric pumps should be turned on again to prevent
@@ -3285,6 +3473,17 @@ A Normal takeoff is performed with flaps retracted.
  deflecting the ailerons fully and extending the flaps so that the flap
  angle matches the angle of the down aileron (12 degrees).
  
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename fuel-selector.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3422,6 +3621,17 @@ n in the engine, no Manifold Pressure settings over 25" should be used with
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename throttle-quadrant.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Use of the mixture control in cruising flight reduces fuel consumption at
  least 10% according to altitude.
  The fuel consumption data in this manual is for cruising with the mixture
@@ -3434,6 +3644,17 @@ There is no problem in overheating the engine cylinders on the RV-8A by
  excessive leaning, provided leaning is done only at cruise power (75% or
  less) or at higher power settings above 5000 ft.
  
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename aileron-trim.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3468,6 +3689,17 @@ During the approach, the first stage of flap (10°) can be lowered at speeds
  cruising RPM or approximately 2400.
  This propeller setting gives ample power for an emergency go-around and
  will prevent over-speeding of the engines if the throttle is advanced sharply.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename rear-throttle.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3908,6 +4140,15 @@ The Textron Lycoming Engine Operator's Manual has performance curves applicable
  For this reason, engine operation should be within the limitations established
  in the Pilot's Operating Handbook (POH).
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename right-lower-cluster.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -4502,6 +4743,24 @@ Split-S
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename logo-sm.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -4552,7 +4811,6 @@ Zero Wind
 \align center
 \begin_inset Graphics
 	filename takeoff_distance.png
-	width 100col%
 
 \end_inset
 
@@ -4635,8 +4893,7 @@ Standard atmosphere
 \noindent
 \align center
 \begin_inset Graphics
-	filename Rotax_503_perfromance.png
-	width 100col%
+	filename power_required.png
 
 \end_inset
 
@@ -4666,6 +4923,17 @@ Standard atmosphere
 
 \begin_layout Standard
 Mixture set to best power for 75% power.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename cruise_speed.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection*
@@ -4701,43 +4969,101 @@ Mixture leaned
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
+\noindent
+\align center
+\begin_inset Graphics
+	filename cruise_range.png
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Subsection*
 FUEL FLOW
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \noindent
 \align left
 Standard atmosphere
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
-	filename Rotax_503_fuel_consumption.png
-	width 100col%
+	filename fuel-flow.png
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename altitude-conversion.png
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename glide-distance.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
 \begin_layout Section
 II.
  Power Charts
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename power-chart.png
+	width 100col%
+	rotateAngle 90
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename power-chart-2.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename power-chart-3.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4760,13 +5086,13 @@ Leveling the RV-8A for purposes of reweighing or rigging is accomplished
  as follows:
 \end_layout
 
-\begin_layout Standard
-(1) Put the airplane on jacks to obtain the longitudinally level position.
+\begin_layout Enumerate
+Put the airplane on jacks to obtain the longitudinally level position.
 \end_layout
 
-\begin_layout Standard
-(3) To level the airplane laterally, place a bubble-protractor on a straight-edg
-e held along the front spar on the under surface of the wing.
+\begin_layout Enumerate
+To level the airplane laterally, place a bubble-protractor on a straight-edge
+ held along the front spar on the under surface of the wing.
  Raise or lower the wing by pushing up or down on the tip until five degrees
  of dihedral is indicated on the protractor.
  The smooth, easy action of the landing gear makes it possible to position
@@ -4828,6 +5154,17 @@ For the purpose of adjusting the lateral trim on the RV-8A, aileron tabs
  are incorporated on both ailerons.
  These tabs can be bent to position the aileron in flight, changing the
  lateral trim as desired.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename side-view.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -4915,13 +5252,18 @@ Main wheels are quickly removed by first cutting the safety wire and removing
 
 \begin_layout Standard
 Tires are dismounted from the wheels by deflating the tube, then removing
- the wheel through bolts, allowing the wheel halves
+ the wheel through bolts, allowing the wheel halves to be separated.
+ In reassembling the wheels, care should be taken to torque the bolts properly,
+ according to instruction on the wheels.
 \end_layout
 
 \begin_layout Standard
-to be separated.
- In reassembling the wheels, care should be taken to torque the bolts properly,
- according to instruction on the wheels.
+\begin_inset Graphics
+	filename batterry.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -4949,6 +5291,17 @@ e.
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename rudder-pedals.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 All inside components are identical on both nose and main gears.
 \end_layout
 
@@ -4962,39 +5315,50 @@ The operation of the landing gear is standard for the sprung type; and requires
 To check shimmy of the nose wheel, if it should develop:
 \end_layout
 
-\begin_layout Standard
-(1) The nose wheel tire pressure should be between 1.7-2.4 bar (25-35 psi).
+\begin_layout Enumerate
+The nose wheel tire pressure should be between 1.7-2.4 bar (25-35 psi).
  Lower pressure is preferable because it increases the tire drag, which
  will help to damp any shimmy.
  Main tires should also be inflated to between 1.7-2.4 bar.
 \end_layout
 
-\begin_layout Standard
-(2) Ensure that the wheel and tire assemblies are properly balanced.
+\begin_layout Enumerate
+Ensure that the wheel and tire assemblies are properly balanced.
 \end_layout
 
-\begin_layout Standard
-(3) Check for uneven tire wear.
+\begin_layout Enumerate
+Check for uneven tire wear.
 \end_layout
 
-\begin_layout Standard
-(4) The nose wheel axle bolt should be torqued to 9.5-13.5 Nm (7-10 pounds).
+\begin_layout Enumerate
+The nose wheel axle bolt should be torqued to 9.5-13.5 Nm (7-10 pounds).
 \end_layout
 
-\begin_layout Standard
-(5) Check the engine mount and gear leg for any cracks or play.
+\begin_layout Enumerate
+\noindent
+\align block
+Check the engine mount and gear leg for any cracks or play.
  The gear leg attach bolt, at the top of the leg, may be loose allowing
  movement of the leg in the mount socket.
  
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename front-fork.png
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-(6) The nose fork disc springs should be clean and mounted correctly (SEE
- ABOVE)
+\begin_layout Enumerate
+The nose fork disc springs should be clean and mounted correctly (SEE ABOVE)
 \end_layout
 
-\begin_layout Standard
-(7) Breakout force should be set at 100 N (22 lb force) (SEE DWG C-1).
+\begin_layout Enumerate
+Breakout force should be set at 100 N (22 lb force) (SEE DWG C-1).
 \end_layout
 
 \begin_layout Standard
@@ -5011,19 +5375,19 @@ The nose gear unit is dismounted by removing the nose wheel cowling and
 Removal of the landing gear wheels is done as follows: 
 \end_layout
 
-\begin_layout Standard
-(1) Remove the split pin from the castellated nut on the axle and then remove
+\begin_layout Enumerate
+Remove the split pin from the castellated nut on the axle and then remove
  the nut
 \end_layout
 
-\begin_layout Standard
-(2) Pull out the axle and remove the wheel from the fork.
+\begin_layout Enumerate
+Pull out the axle and remove the wheel from the fork.
  Care should be taken not to drop the wheel bearings.
 \end_layout
 
-\begin_layout Standard
-(3) Remove the upper bearing retainer pins and slide both upper and lower
- bearings from the strut.
+\begin_layout Enumerate
+Remove the upper bearing retainer pins and slide both upper and lower bearings
+ from the strut.
  The O-rings and wiper strips are then exposed for inspection.
 \end_layout
 
@@ -5039,6 +5403,17 @@ In the event that a wheel slowly loses pressure, the most probable source
  These parts should be checked first to determine whether or not air leaks
  are occurring.
  In the case of a puncture, it is recommended that the inner tube be replaced.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename nose-wheel-diagram.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -5058,6 +5433,17 @@ To add fluid to the system, remove the cap from the filler neck and fill
  out.
  (See separate instructions for filling, cleaning and bleeding the complete
  hydraulic system).
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename brake-lines.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -5124,15 +5510,15 @@ The following cleaning procedure is recommended by the manufacturer of the
  filter:
 \end_layout
 
-\begin_layout Standard
-(1) Remove filter, inspect and clean by tapping it against a hard surface
- to remove grit, sand and dirt.
+\begin_layout Enumerate
+Remove filter, inspect and clean by tapping it against a hard surface to
+ remove grit, sand and dirt.
  (Do not blow out with an air hose, soak in oil, or cleaning fluid).
 \end_layout
 
-\begin_layout Standard
-(2) If the filter is found to be in good condition and is not obstructed
- after being properly cleaned, reinstall filter.
+\begin_layout Enumerate
+If the filter is found to be in good condition and is not obstructed after
+ being properly cleaned, reinstall filter.
 \end_layout
 
 \begin_layout Section
@@ -5190,728 +5576,15 @@ The serial number plate on the RV-8A is located against the aft baggage
  airplane in service or warranty matters.
 \end_layout
 
-\begin_layout Subsection*
-Rotax 503 Technical Specifications
+\begin_layout Subsubsection*
+Lycoming Engine
 \end_layout
 
 \begin_layout Standard
-
-\size footnotesize
-\begin_inset Tabular
-<lyxtabular version="3" rows="29" columns="2">
-<features islongtable="true" longtabularalignment="center">
-<column alignment="left" valignment="top" width="25col%">
-<column alignment="left" valignment="top" width="70col%">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-DESCRIPTION:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Two-cycle, two-cylinder engine, oil in fuel lubrication 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-BORE: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-72.0mm (2.835 in.) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-STROKE: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-61mm (2.40 in.) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-DIRECTION OF ROTATION: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Counter- clockwise, viewed towards PTO (without reduction gear box) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-DISPLACEMENT:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-496.7 c.c.
- (30.31 cu.
- in.) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-COMPRESSION RATIO:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Theoretical 10.8 - effective 6.2 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-POWER OUTPUT:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-34.0 kw (46 hp) configuration single carb.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-MAXIMUM RPM:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-6800 rpm.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-DIRECTION OF ROTATION:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Counter- clockwise, viewed towards PTO (without reduction gear box) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-CYLINDER: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-2 light alloy cylinders with cast iron sleeves 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-PISTON:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Aluminum cast piston with 2 rings 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-PISTON/CYLINDER CLEARANCE:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-0.07 - 0.08mm (.0028 - .0032 in.) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-IGNITION SYSTEM:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Breakerless Ducati capacitor discharge dual ignition with magneto generator.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-GENERATOR OUTPUT:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-170 W AC at 6000 rpm and 13.5 V RMS 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-RECTIFIER- REGULATOR:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-(optional)a.) #9103 requires min.
- load 12 W (1 amp) to regulate b.) #9251 requires no min.
- load 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-IGNITION TIMING:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-1.47mm = .059 in.
- (16 degrees B.T.D.C.) 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-SPARK PLUG:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-14 mm NGK B8ES ELECTRODE GAP: .015 in.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-CARBURETOR:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-1 x BING 36mm (1.42 in.) hand lever choke 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-FUEL PUMP:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Pneumatic fuel pump #6903 for single carb 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-FUEL:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Regular or premium gasoline, octane not lower than 90 octane (unleaded fuels)
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-ENGINE LUBRICATION :
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Super 2- stroke oil (AV-2), proposed ASTM/CEC 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-STARTER: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Rewind starter - standard (optional) electric starter, magneto side without
- rewind starter 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-REDUCTION GEARBOX "B":
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-(optional) Reduction gear box with torsional shock absorber, for propeller
- interia up to 3000 kg cm sq.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-REDUCTION GEAR BOX "C":
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-(optional) Reduction gear box with torsional shock absorber, for propeller
- interia up to 6000 kg cm sq.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-RATIOS:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-2.62 to 1, 3.00 to 1, 3.47 to 1, 4.00 to 1.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-GEAR BOX LUBRICATION:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Gear oil, GL5 or GL6, SAE 140EP, or 85 W-140 EP 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-PROP SHAFT ROTATION: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Clockwise, viewed towards propeller flange.
- 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-COOLING: 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Air cooled by axial fan 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
+\noindent
+\align center
+\begin_inset Graphics
+	filename lycoming-engine-1.png
 
 \end_inset
 
@@ -5919,236 +5592,36 @@ Air cooled by axial fan
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename lycoming-engine-2.png
 
-\size footnotesize
-WEIGHT: 
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-
-\size footnotesize
-\begin_inset Tabular
-<lyxtabular version="3" rows="9" columns="2">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top" width="60col%">
-<column alignment="right" valignment="top" width="0pt">
-<row>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Item
-\end_layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename lycoming-engine-3.png
 
 \end_inset
-</cell>
-<cell alignment="right" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
 
-\begin_layout Plain Layout
 
-\size footnotesize
-Weight (kg)
 \end_layout
 
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Engine wo/: carburetor, air filter, fuel pump, exhaust system
+\begin_layout Subsubsection*
+Garmin G3X CAN bus
 \end_layout
 
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-30.4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-2 carbs w/ sockets
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-1.8
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-exhaust system assy
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-4.9
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-2 air filter
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-0.3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-electric start kit, mag end.1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-3.5
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-start kit, mag end.1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-4.5
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Reduction box "B"
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-4.5
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-Reduction box "C"
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-8.1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename g3x-can-bus.png
 
 \end_inset
 
@@ -6171,27 +5644,7 @@ Loading Sheet
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-For all TEAM aircraft, the C.G.
- should be between 11.3 and 16.2 inches, or 21-30%.
- 
-\end_layout
-
-\begin_layout Plain Layout
-Optimum flight characteristics have been obtained with the C.G.
- at approximately 28-29%.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Make: TEAM
+Make: Vans
 \end_layout
 
 \begin_layout Standard
@@ -6199,12 +5652,12 @@ Model: RV-8A
 \end_layout
 
 \begin_layout Standard
-Serial Number: ?????
+Serial Number: 82612
 \end_layout
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="2">
+<lyxtabular version="3" rows="12" columns="2">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="60col%">
@@ -6222,7 +5675,7 @@ Datum:
 \begin_inset Text
 
 \begin_layout Plain Layout
-0 cm forward of the wing leading edge (LE)
+178 cm forward of the wing leading edge (LE)
 \end_layout
 
 \end_inset
@@ -6242,7 +5695,7 @@ Design CG Range:
 \begin_inset Text
 
 \begin_layout Plain Layout
-21% to 30% of wing cord (?? to ?? cm aft of Datum)
+15% to 29% of wing cord (200 to 221 cm aft of Datum)
 \end_layout
 
 \end_inset
@@ -6262,7 +5715,7 @@ Wing LE:
 \begin_inset Text
 
 \begin_layout Plain Layout
-0 cm aft of Datum
+178 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6282,7 +5735,7 @@ Main wheel right:
 \begin_inset Text
 
 \begin_layout Plain Layout
-nnn? cm aft of Datum
+237 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6302,7 +5755,7 @@ Main wheel left:
 \begin_inset Text
 
 \begin_layout Plain Layout
-nnn? cm aft of Datum
+237 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6313,7 +5766,7 @@ nnn? cm aft of Datum
 \begin_inset Text
 
 \begin_layout Plain Layout
-Tail Wheel:
+Nose Wheel:
 \end_layout
 
 \end_inset
@@ -6322,7 +5775,7 @@ Tail Wheel:
 \begin_inset Text
 
 \begin_layout Plain Layout
-nnn? cm aft of Datum
+82 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6342,7 +5795,7 @@ Fuel:
 \begin_inset Text
 
 \begin_layout Plain Layout
-??? cm aft of Datum
+203 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6362,7 +5815,7 @@ Pilot:
 \begin_inset Text
 
 \begin_layout Plain Layout
-??? cm aft of Datum
+233 cm aft of Datum
 \end_layout
 
 \end_inset
@@ -6373,7 +5826,7 @@ Pilot:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Aft Baggage Floor:
+Passenger:
 \end_layout
 
 \end_inset
@@ -6382,27 +5835,67 @@ Aft Baggage Floor:
 \begin_inset Text
 
 \begin_layout Plain Layout
-??? cm aft of Datum
+303 cm aft of Datum
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Forward Baggage: 
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+149 cm aft of Datum
+\end_layout
 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aft Baggage Floor: 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+351 cm aft of Datum 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aft Baggage Shelf: 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+388 cm aft of Datum 
 \end_layout
 
 \end_inset
@@ -6416,7 +5909,14 @@ Aft Baggage Floor:
 \end_layout
 
 \begin_layout Standard
-<pic here>
+\noindent
+\align center
+\begin_inset Graphics
+	filename loading-sheet-side.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6485,6 +5985,8 @@ Right Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+189.8
 \end_layout
 
 \end_inset
@@ -6494,6 +5996,8 @@ Right Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+236.8
 \end_layout
 
 \end_inset
@@ -6503,6 +6007,8 @@ Right Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+45181 
 \end_layout
 
 \end_inset
@@ -6523,6 +6029,8 @@ Left Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+186.6
 \end_layout
 
 \end_inset
@@ -6532,6 +6040,8 @@ Left Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+236.8
 \end_layout
 
 \end_inset
@@ -6541,6 +6051,8 @@ Left Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+44423
 \end_layout
 
 \end_inset
@@ -6561,6 +6073,8 @@ Tail Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+134.9
 \end_layout
 
 \end_inset
@@ -6570,6 +6084,8 @@ Tail Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+82.3
 \end_layout
 
 \end_inset
@@ -6579,6 +6095,8 @@ Tail Wheel
 
 \begin_layout Plain Layout
 
+\family typewriter
+ 11102 
 \end_layout
 
 \end_inset
@@ -6611,7 +6129,9 @@ Total:
 \begin_inset Text
 
 \begin_layout Plain Layout
-???.? kg
+
+\family typewriter
+511.3 kg
 \end_layout
 
 \end_inset
@@ -6631,7 +6151,9 @@ Empty CG:
 \begin_inset Text
 
 \begin_layout Plain Layout
-???.? cm
+
+\family typewriter
+196.0 cm
 \end_layout
 
 \end_inset
@@ -6649,7 +6171,7 @@ W&B Envelope
 \end_layout
 
 \begin_layout Standard
-Datum: On the wing leading edge (LE)
+Datum: 178 cm forward of the wing leading edge (LE)
 \end_layout
 
 \begin_layout Standard
@@ -6841,30 +6363,10 @@ Load Factor Limits
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="2">
+<lyxtabular version="3" rows="2" columns="2">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top" width="60col%">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
+<column alignment="left" valignment="top" width="50col%">
+<column alignment="left" valignment="top" width="30col%">
 <row>
 <cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -6883,11 +6385,22 @@ reducing linearly to 820 kg (1800 lb):
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-+6g to -3g+5g to -2.5g
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
++6g to -3g 
+\begin_inset Newline newline
+\end_inset
+
++5g to -2.5g
 \end_layout
 
 \end_inset
@@ -6898,17 +6411,16 @@ reducing linearly to 820 kg (1800 lb):
 \begin_inset Text
 
 \begin_layout Plain Layout
-Flaps Extended: +2g to 0gThe load factor limit varies linearly between 820
- kg and 700 kg.
+Flaps Extended: 
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
++2g to 0g
 \end_layout
 
 \end_inset
@@ -6919,6 +6431,21 @@ Flaps Extended: +2g to 0gThe load factor limit varies linearly between 820
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename load-factor-limits.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The load factor limit varies linearly between 820 kg and 700 kg.
 \end_layout
 
 \begin_layout Standard
@@ -6952,239 +6479,17 @@ Flight Envelope
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Worked Examples
 \end_layout
 
-\begin_layout Standard
-Normal loading - Solo
+\begin_layout Subsubsection*
+Aerobatic loading - Solo
 \end_layout
 
 \begin_layout Standard
-Utility loading - Solo
-\end_layout
-
-\begin_layout Standard
-Cross country loading - Payload
-\end_layout
-
-\begin_layout Standard
-Cross country loading - Range
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
 \begin_inset Graphics
-	filename himax_logo.png
-	width 40col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-APPENDIX
-\end_layout
-
-\begin_layout Section
-WEIGHT AND BALANCE 
-\end_layout
-
-\begin_layout Standard
-Once your TEAM aircraft is fully assembled for the first time, the initial
- order of business (before flying) must be to determine the weight and balance
- of the aircraft.
- 
-\end_layout
-
-\begin_layout Standard
-This is not just an academic exercise - the location of the center of gravity
- is critical to the handling of the aircraft.
- 
-\end_layout
-
-\begin_layout Standard
-The process is very simple, if you have access to a couple of accurate scales
- which will measure up to about half the aircraft weight each.
- 
-\end_layout
-
-\begin_layout Enumerate
-Place the aircraft on scales in a level flight position, longerons level
- to the hori zon (spanwise and chordwise).
- 
-\end_layout
-
-\begin_layout Enumerate
-Drop a plumb bob over the leading edge of the wing near the wing root and
- mark location on the floor.
- 
-\end_layout
-
-\begin_layout Enumerate
-Locate a second point on the floor directly below the centerline of the
- front axle tube.
- 
-\end_layout
-
-\begin_layout Enumerate
-Also locate a third point on the floor using the plumb bob or equivalent,
- directly under the centerline of the tailwheel.
- 
-\end_layout
-
-\begin_layout Enumerate
-The distance in inches between points located in Step #2 and Step #3 can
- be called DM (Distance Main wheels).
- 
-\end_layout
-
-\begin_layout Enumerate
-The distance in inches between points located in Step #2 and Step #4 can
- be called DT (Distance Tail wheel).
- 
-\end_layout
-
-\begin_layout Enumerate
-With the pilot seated in the cockpit, record the total weight on the scales
- of both front wheels.
- This can be called WM (Weight Main wheels).
- 
-\end_layout
-
-\begin_layout Enumerate
-With pilot still on board, record weight on the tail wheel.
- This can be called WT (Weight Tail wheel).
- 
-\end_layout
-
-\begin_layout Enumerate
-Next, multiply (WM) x (DM).
- This figure is called a Moment MMW (Moment Main Wheels).
- 
-\end_layout
-
-\begin_layout Enumerate
-Do the same for (WT) x (DT) to get MTW (Moment Tail Wheel).
- 
-\end_layout
-
-\begin_layout Enumerate
-Now add together (WM) + (WT).
- This is the TAW or total aircraft weight.
- 
-\end_layout
-
-\begin_layout Enumerate
-Add the two moments determined in Steps #9 and 10 (MMW + MTW) to get TM
- (Total Moment).
- 
-\end_layout
-
-\begin_layout Enumerate
-Divide this figure.
- TM, by the total aircraft weight TAW (from Step #11).
- 
-\end_layout
-
-\begin_layout Enumerate
-The answer will be the distance in inches from the wing leading edge to
- the Center of Gravity (C.G.).
- 
-\end_layout
-
-\begin_layout Enumerate
-To find the C.G.
- in percent of the wing chord, divide this answer by the chord (54 inches).
- 
-\end_layout
-
-\begin_layout Standard
-For all TEAM aircraft, the C.G.
- should be between 28.7 and 41.1cm (11.3 and 16.2
-\begin_inset Quotes erd
-\end_inset
-
-), or 21% to 30%.
- Optimum flight characteristics have been obtained with the C.G.
- at approximately 28-29%.
- 
-\end_layout
-
-\begin_layout Standard
-Fuel weight will have a slight effect as it burns off, and you may wish
- to calculate the C.G.
- location with both empty and full tank(s).
- 
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename pasted1.png
-	lyxscale 50
-	width 100col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Now refer to the correct weight and balance envelope for your model Draw
- a line straight up from the "total weight." and a horizontal line straight
- across from the C.G.
- location.
- 
-\end_layout
-
-\begin_layout Standard
-If these lines intersect in area "A." your aircraft falls into the equivalent
- "utility" category, and is safe for maneuvers not exceeding a load factor
- of +4 4 and -1.8 G`s.
- 
-\end_layout
-
-\begin_layout Standard
-If you fall within area "B." your aircraft falls within the "Standard" category,
- and is good to +3.8 and -1.5 G's.
- 
-\end_layout
-
-\begin_layout Standard
-In many cases, you may find that, with empty tanks you fall within one category
- and with full tanks, the other.
- If this is so you may need to experiment with partially filled tanks to
- determine your actual limits.
- 
-\end_layout
-
-\begin_layout Standard
-If you have installed optional tanks (for example an additional 5 gallon
- tank behind the seat), you may fall within the proper weight and balance
- envelope with tanks empty and full, but the center of gravity may actually
- be too far aft with the forward tanks empty and the rear tank full.
- In this case, you should always use fuel from the rear tank first.
- 
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename pasted2.png
-	lyxscale 50
-	width 100col%
+	filename load-aerobatic-solo.png
 
 \end_inset
 
@@ -7192,1809 +6497,38 @@ If you have installed optional tanks (for example an additional 5 gallon
 \end_layout
 
 \begin_layout Subsubsection*
-LOADED WEIGHT AND BALANCE CHART 
-\end_layout
-
-\begin_layout LyX-Code
-DM = _______ DT = ________ WM= ________ WT= _______ 
-\end_layout
-
-\begin_layout LyX-Code
-Main Wheel Moment: 
-\end_layout
-
-\begin_layout LyX-Code
-WM _______ x DM ________ = MMW ________ 
-\end_layout
-
-\begin_layout LyX-Code
-Tail Wheel Moment: 
-\end_layout
-
-\begin_layout LyX-Code
-WT _______ x DT ________ = MTW ________ 
-\end_layout
-
-\begin_layout LyX-Code
-Total Aircraft Weight: 
-\end_layout
-
-\begin_layout LyX-Code
-WM _______ + WT_________ = TAW ________ 
-\end_layout
-
-\begin_layout LyX-Code
-Next, add the two moments: 
-\end_layout
-
-\begin_layout LyX-Code
-MMW ________ + MTW ________ =________ TM 
-\end_layout
-
-\begin_layout LyX-Code
-Next, divide total moment by total weight: 
-\end_layout
-
-\begin_layout LyX-Code
-TM _______ / TAW _________ = ________ CG.
- 
-\end_layout
-
-\begin_layout LyX-Code
-CG _______ / 54  _________ % Chord.
- 
-\end_layout
-
-\begin_layout Standard
-CG should be between 28.7 and 41.1cm (11.3 and 16.2
-\begin_inset Quotes erd
-\end_inset
-
-).
- Chord should be between 21% and 30%.
- Optimum flight characteristics have been obtained with the C.G.
- at approximately 28-29%.
- 
-\end_layout
-
-\begin_layout Section
-FLIGHT TEST PROCEDURES 
-\end_layout
-
-\begin_layout Standard
-Flight test of your new TEAM aircraft must be preceded by a very careful
- preparation.
- 
-\end_layout
-
-\begin_layout Standard
-First, prepare yourself.
- You should have a reasonable proficiency in flying taildragger airplanes
- such as Piper Cubs.
- Aeronca Champs, or the like.
- Ultralight experience would also be very valuable.
- At least some of your flight time in such airplanes should be at least
- proficient to solo these airplanes.
- Also read the following section "Reflections on your first flight." to get
- an idea of what your fellow builders have learned from their experiences.
- 
-\end_layout
-
-\begin_layout Standard
-Next, perform the weight and balance calculations of appendix A.
- Do not attempt any flights, even high speed taxi, before completing this
- step! 
-\end_layout
-
-\begin_layout Standard
-Now perform the most thorough preflight you have ever done.
- Have your pilot friends, and any one else available perform a thorough
- preflight.
- At least one of you should find the loose nut, the empty gas tank, loose
- prop bolts, unsafetied wing pins, or other discrepancies you forgot during
- assembly.
- 
-\end_layout
-
-\begin_layout Standard
-Engine run-in should have been performed per the engine manual instructions.
- 
-\end_layout
-
-\begin_layout Standard
-The first order of business is simply to practice taxiing the aircraft,
- which will familiarize you with the ground attitude and handling characteristic
-s.
- A grass runway is preferable for the early testing and flights, especially
- for low time taildragger pilots.
- Tail down and tail up taxiing should be done, with several runs up and
- down the runway.
- Note the tachometer and airspeed readings.
- You should probably burn at least one-half a tank of gasoline during this
- phase.
- Just in case, be mentally prepared to fly, since the aircraft is probably
- much lighter than anything else you've flown, and you will be airborne
- before you expect it.
- 
-\end_layout
-
-\begin_layout Standard
-Now.
- repeat the thorough preflight to detect any looseness that developed during
- the taxi runs.
- Vibration may have loosened any improper glue joints or improperly tightened
- or safetied fittings by this time.
- 
-\end_layout
-
-\begin_layout Standard
-Refill the gas tank, and prepare for your first flight! 
-\end_layout
-
-\begin_layout Standard
-There are two common approaches to the first flight.
- One approach is to make a series of "crow hops", where you fly a short
- distance at just a few feet of altitude and then land straight ahead before
- reaching the end of the runway.
- This is advantageous in case anything goes wrong (such as an engine failure),
- but has the disadvantage of keeping the aircraft in the most hazardous
- regime (close to the ground at low speed) for a relatively long time.
- We would recommend this approach if you arc an experienced pilot with a
- long runway available.
- 
-\end_layout
-
-\begin_layout Standard
-The other approach is to make the first flight a complete circuit of the
- pattern.
- The disadvantage is, of course, that if anything goes wrong (again, such
- as an engine failure or missing nut or bolt), you are further from mother
- earth.
- The advantage is that you have more space to learn the feel of the airplane
- without worrying about inadvertently contacting something hard (like the
- ground).
- 
-\end_layout
-
-\begin_layout Standard
-Whichever approach you choose, you eventually have to get away from the
- runway! Plan your first flight so as to have a place to land at all times
- if the engine fails.
- 
-\end_layout
-
-\begin_layout Standard
-Again, a grass runway, if you have one available, is more forgiving of a
- taildragger aircraft.
- If not, remember that TEAM aircraft without the optional brakes tend to
- roll freely on pavement.
- Perform your take- off checks using the printed list as a guideline.
- Taxi to the runway centerline, just as you did on the taxi runs or your
- "crow hops", but-tis time you fly!! 
-\end_layout
-
-\begin_layout Standard
-Smoothly add power until the throttle is fully open, correcting for "torque"
- effects (note that left - not right - rudder will probably be required
- with the V-MAX and Rotax powered models).
- 
-\end_layout
-
-\begin_layout Standard
-Note that TEAM aircraft are lighter than most other experimental, and accelerate
- very rapidly.
- Use forward stick to raise the tail (if you are not already airborne!)
- for your first few flights.
- At an airspeed of 25-30 kts (30-35 mph) (calibrated air speed) raise the
- nose to lift off.
- 
-\end_layout
-
-\begin_layout Standard
-Allow the aircraft to accelerate to about 40-45 kts (45-50 mph) for a normal
- climb.
- This will allow adequate energy for a power off landing if the engine fails.
- Remember - normal engine out approach speed is minimum 40 kts (45 mph).
- 
-\end_layout
-
-\begin_layout Standard
-Once you achieve several hundred feet of altitude, you may begin experimenting
- with the controls.
- When you are comfortable with plenty of altitude, you should try a few
- stalls.
- Power off, you probably will not get a good stall break, since the windmilling
- propeller reduces the elevator effectiveness.
- In this "mushing" mode, the ailerons should remain effective, although
- more rudder will be required for coordination.
- 
-\end_layout
-
-\begin_layout Standard
-We have down the aircraft to speeds just above stall with full power.
- In this condition, vigorous use of the ailerons may result in the wing
- with the "down" aileron stalling and a roll opposite aileron deflection.
- Relaxation of the back pressure on the stick and use of rudder and aileron
- will result in rapid recovery.
- 
-\end_layout
-
-\begin_layout Standard
-Slips are effective in increasing drag and steepening the glide angle.
- Experiment first with plenty of altitude to get accustomed to slip characterist
-ics.
- 
-\end_layout
-
-\begin_layout Standard
-The first landing should be performed with no flaps and a little power since
- the MAXes have a fairly steep glide angle.
- Maintain an approach speed of 50-55 mph and an approach path similar to
- a Champ or Cub.
- 
-\end_layout
-
-\begin_layout Standard
-For the first few landings, continue to fly the airplane on with a little
- power and a slightly nose up attitude as you near the ground.
- After touchdown, hold the stick full back to keep the tailwheel on the
- ground for steering and close the throttle.
- 
-\end_layout
-
-\begin_layout Standard
-As you get accustomed to the characteristics, try power off landings, maintainin
-g an airspeed of at least 50 mph into the flare.
- Note that this airplane is not a floater, and once you flare, you are down.
- 
-\end_layout
-
-\begin_layout Standard
-Congratulations, you are now a proud TEAM Aircraft owner and pilot! Many
- more hours of pleasurable flying await you, providing you exercise the
- proper care and good judgment as "pilot-in- command".
- 
-\end_layout
-
-\begin_layout Subsection*
-Reflections on Your First Flight 
-\end_layout
-
-\begin_layout Standard
-With many TEAM aircraft now flying, we have had an opportunity to receive
- feedback about many of your fellow builders first flights and how they
- went.
- Some of this accumulated wisdom may help you on your first flight.
- 
-\end_layout
-
-\begin_layout Enumerate
-If a soft grass area is available for first flights, by all means use it.
- The aircraft (and any light taildragger) will handle much more smoothly
- and be more docile on grass, whereas on pavement, it can be much more sensitive.
- 
-\end_layout
-
-\begin_layout Enumerate
-Very little forward stick is needed to raise the tail on takeoff.
- For a pilot accus tomed to flying a Champ or Piper Cub, the tail of a MAX
- will come up much faster than you think, in fact, just about everything
- will happen much faster than you expect! Stick slightly forward is sufficient,
- and apply power slowly.
- 
-\end_layout
-
-\begin_layout Enumerate
-After your initial take-off and climb-out, if the cylinder head temperature
- is OK and the engine is running smoothly, take your time and don't be in
- a rush to land.
- Get some altitude and feel out the airplane's handling.
- 
-\begin_inset Newline newline
-\end_inset
-
-Shoot two or three long, leisurely approaches to accustom yourself to how
- the aircraft responds to the controls and the throttle.
- 
-\begin_inset Newline newline
-\end_inset
-
-The elevator trim tab will need to be adjusted (unless you have the optional
- electric adjustable tab), and you will need time to relax in the air and
- evaluate your specific needs.
- 
-\end_layout
-
-\begin_layout Enumerate
-Even high time pilots accustomed to flying heavier, faster airplanes will
- need to re-adjust their reactions in ultralight aircraft.
- 
-\begin_inset Newline newline
-\end_inset
-
-First of all, the plane will react faster to changes in the throttle, and
- will slow down faster than anything else you have flown.
- The power off glide will be much steeper than you think, and you will need
- extra airspeed to have enough energy to flare for the landing - and when
- you begin to flare, you will slow down very quickly! 
-\end_layout
-
-\begin_layout Enumerate
-From our experience and feedback we have received, we recommend you 
-\emph on
-do not
-\emph default
- use flaps, if installed, for your initial flights, and never for a power
- off landing, since there is insufficient elevator power to overcome the
- nose down pitching ten dency with the flaps lowered.
- 
-\begin_inset Newline newline
-\end_inset
-
-The only reason flaps were included in the original design was to meet the
- requirements of the Federal Aviation Regulations, part 103, specifically
- the minimum stall speed.
-\begin_inset Newline newline
-\end_inset
-
-The only time we recommend using the flaps is for soft field take-offs and
- possibly for soft field landings, when you can make a long, shallow power-on
- approach.
- 
-\end_layout
-
-\begin_layout Enumerate
-Many of you have called after your first flights and commented on how strong
- the landing gear is.
- In our conversations with you, we have found several common reasons for
- frequent hard landings:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-First, many of you tend to use flaps for your first landings, perhaps from
- previous habits learned in "regular" airplanes.
- As mentioned above, flaps cause a nose down pitch, and you slow down to
- flare, you run out of elevator power and can't get the nose up to complete
- the flare.
- 
-\end_layout
-
-\begin_layout Enumerate
-Second, many people are making their approach too slow, resulting in, again,
- running out of elevator power in the flare.
- One reason for this might be an erroneous airspeed indication, since in
- many of these cases, the pilot claimed a top speed, with a Rotax 277 engine,
- of about 85 mph! You can certainly rest assured that such an airspeed is
- incorrect, since the top speed of a 277 powered MAX-103 should be about
- 70 mph.
- The cause of the inaccuracy is probably the location of the static pressure
- pick-up.
- The section labeled "STATIC PRESSURE MEASURE- MENT" may enlighten you on
- improving this situation.
- 
-\end_layout
-
-\begin_layout Enumerate
-Third, the MAX planes, being small and light, have a relatively sleep glide
- angle with power off.
- For example, a Cessna 150 will glide about 10 feet forward for each foot
- of altitude loss, whereas a MAX will only manage about 6.5 feet forward
- for each foot of altitude.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-If you are accustomed to typical light planes, you may be fooled into flying
- a too shallow approach and getting too slow.
- To avoid this, make your first approaches with power on at an airspeed
- of about 50-55 mph.
- Make a few practice approaches first a high altitude so you will have a
- chance to evaluate the glide and airspeed control without worrying about
- contacting the ground.
- 
-\end_layout
-
-\begin_layout Standard
-After you have made a few power on landings, try a power off (or idle) glide
- at altitude to see what nose down attitude is necessary to maintain an
- airspeed of about 53 kts (60 mph), which is a good airspeed for your initial
- power off approaches.
- It will probably be a lot steeper than you expect.
- 
-\end_layout
-
-\begin_layout Standard
-Incidentally, don't perform power off glides for more than 20-30 seconds
- at a time without adding power, otherwise, you may load up the engine and
- have to shoot a real power off approach before you really want to! 
-\end_layout
-
-\begin_layout Section
-STATIC PRESSURE MEASUREMENT 
-\end_layout
-
-\begin_layout Standard
-Errors in airspeed measurement are usually caused by an inaccurate static
- pressure measurement.
- If you just leave the static port on the airspeed indicator open to cockpit
- air, this will probably give a very optimistic airspeed reading.
- 
-\end_layout
-
-\begin_layout Standard
-A simple and reasonably accurate position for the static ports has been
- found to be on the fuselage sides along the diagonal braces between the
- top and bottom longerons in the fuselage bay just forward of the front
- horizontal stabilizer attach points (both sides).
- These diagonals are easily reached with the tail removed, so it is a simple
- retrofit.
- 
-\end_layout
-
-\begin_layout Standard
-The following figure shows how we have installed the static ports on our
- factory airplanes.
- You can probably find all the materials in your scrap box.
- 
-\end_layout
-
-\begin_layout Standard
-Just glue a 3/4 inch square by 1½ inch long pine block to a 1½ inch square
- piece of 1/8 inch plywood.
- Drill a 3/16 or 1/4 inch hole in which to glue a short piece of tubing
- of the same outside diameter and about 1½ inch long, as shown.
- Make one for each side, of course.
- 
-\end_layout
-
-\begin_layout Standard
-Then glue these assemblies to the above mentioned diagonal braces on both
- sides, being sure to also glue the fabric to the plywood.
- Glue a 1 inch (approximate) disk of thin aluminum or plastic to the fabric
- covering right over the plywood, and, once the glue has cured, drill a
- 1/16 inch hole through the center of the disk and the plywood.
- 
-\end_layout
-
-\begin_layout Standard
-Connect a piece of plastic or rubber tubing between the static port on your
- airspeed indicator and the tubes that you just installed protruding into
- the fuselage, using a plastic "T" as shown, being sure to route the tubing
- so that it is clear of the control cables and will not chafe through the
- fabric.
- 
-\end_layout
-
-\begin_layout Standard
-You should then calibrate your system by flying a known distance in two
- directions for several airspeeds, ranging from your normal landing approach
- speed up to maximum level speed, timing the passes.
- Convert the time and distance into speed and you have an airspeed indicator
- calibration.
- 
-\end_layout
-
-\begin_layout Standard
-For further details on airspeed and other calibrations, see the article
- written by TEAM for the November 1987 issue of the EXPERIMENTER (back copies
- available from the EAA).
- 
-\end_layout
-
-\begin_layout Standard
-Airspeed errors can also be caused by an improperly located pitot tube.
- We usually attach the pitot tube to the wing strut (either side will do),
- but you have to be careful.
- If you locate the pitot too far inboard (close to the fuselage), it will
- be influenced by the high speed prop wash, giving a high airspeed indication.
- 
-\end_layout
-
-\begin_layout Standard
-Likewise, locating it too far outboard (resulting in the pitot being too
- close to the wing) can result in an improper reading.
- We have found the best location to be just below the strut about 12 inches
- from the outboard strut-to-wing bolt.
- This should put the pitot tube about 8-9 inches below the lower wing surface.
- 
-\end_layout
-
-\begin_layout Standard
-Static Port Installation: 
+Aerobatic loading - Dual
 \end_layout
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename static-port.png
-	width 100col%
+	filename load-aerobatic-dual.png
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Section
-ELEVATOR TRIM TABS 
-\end_layout
-
-\begin_layout Standard
-In order to trim your MAX for hands off flight in level flight, an elevator
- trim tab is required.
- If you have installed the optional electric trim tab.
- this is all you require.
- If not.
- a ground adjustable tab is needed.
- This is due to two things: First, the wide chord wing and highly cambered
- airfoil cause a large nose down pitching moment; and second, the elevator
- is relatively large and heavy and tends to droop.
- 
+\begin_layout Subsubsection*
+Cross country loading - Payload
 \end_layout
 
 \begin_layout Standard
-A simple trim tab can be mounted as follows: 
+\begin_inset Graphics
+	filename load-xc-payload.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Cross country loading - Range
 \end_layout
 
 \begin_layout Standard
-Cut the tab from 0.020 inch aluminum sheet, approximately 3" by 24" (actually,
- we usually use aluminum siding - which has the additional advantage of
- a 10 year warranty!).
- Make a 10 degree bend 3/4
-\begin_inset Quotes erd
-\end_inset
-
- from one (long) edge.
- Bolt or pop rivet about every 3 inches to the trailing edge of the elevator,
- with the tab deflected down.
- This 10 degree bend is preliminary, and can be adjusted as needed until
- you can fly hands-off.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-AIRFRAME MAINTENANCE SCHEDULE
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="26" columns="5">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="center" valignment="top" width="10col%">
-<column alignment="center" valignment="top" width="10col%">
-<column alignment="center" valignment="top" width="10col%">
-<column alignment="center" valignment="top" width="10col%">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Component 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-25
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-50
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-100
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-200
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Seat
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Seat belt
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Spar carry through
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wing root fittings
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Tail braces
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Tail spring
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wing struts
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Fuselage strut fittings
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Landing gear hinges
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Bowden cable fittings
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Elevator horn
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Bowden cables
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Rudder horn
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Control stick
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Control stick brackets
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Rudder pedals
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Control surface hinges
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1/4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1/2/4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wheel bushings
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1/2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-All channels, brackets
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Strut to axle bolts
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2/4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Spar pins
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-All other bolts
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-All other hardware
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wheel pants
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Fabric
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
+\begin_inset Graphics
+	filename load-xc-range.png
 
 \end_inset
 
@@ -9002,47 +6536,6 @@ Fabric
 \end_layout
 
 \begin_layout Standard
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-1.
- Lubricate and service
-\end_layout
-
-\begin_layout Plain Layout
-2.
- Inspect, replace if required
-\end_layout
-
-\begin_layout Plain Layout
-3.
- Replace
-\end_layout
-
-\begin_layout Plain Layout
-4.
- Check: bolt tentions/pin wear
-\end_layout
-
-\end_inset
-
-
 \begin_inset Newpage pagebreak
 \end_inset
 
